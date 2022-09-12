@@ -1,0 +1,6 @@
+{
+    "name" : "player1",
+    "health" : 100,
+    "weapon" : "hands",
+    "backpack_size" : 20
+}
